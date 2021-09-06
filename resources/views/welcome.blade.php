@@ -21,7 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <h6>this is body 2</h6>
+        <h6>Expressions and computed classes</h6>
         <example-component></example-component>
         <script src="{{ asset('js/app.js') }}"></script>
     </body>
